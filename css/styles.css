@@ -1,0 +1,57 @@
+:root{
+    --primery-text-color:#434455;
+    --tittle-text-color:#2E2F42;
+    --accent-text-color:#4D5AE5;
+    --primery-white-color:#FFFFFF;
+}
+
+body{
+    color:var(--primery-text-color);
+    background-color:var(--primery-white-color);
+
+}
+
+logo{
+    color:var(--accent-text-color);
+    }
+
+.list{
+    list-style: none;
+}
+
+.site-nav .link.current{
+    color:var()
+}
+
+.site-nav a{
+    color:var(--tittle-text-color);
+
+}
+
+.site-nav a:hover, 
+.site-nav a:focus {
+    color:var(--accent-text-color);
+
+}
+
+.contakt a{
+    color:var(--tittle-text-color);
+}
+
+.contakt a:hover,
+.contakt a:focus{
+    color:var(--accent-text-color);
+}
+
+.section-title{
+    color:var(--tittle-text-color);
+}
+
+.button{
+    background:var(--accent-text-color);
+    color:var(--primery-white-color)
+    
+
+}
+
+
