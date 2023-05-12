@@ -74,7 +74,7 @@ body{
 }
 
 .site-nav a{
-    font-family: 'Roboto'sans-serif;
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -124,7 +124,7 @@ body{
 .button{
     background:var(--accent-text-color);
     color:var(--primery-white-color);
-    font-family: 'Roboto'sans-serif;
+    font-family: 'Roboto' sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
@@ -134,9 +134,9 @@ body{
         cursor: pointer;
 }
 
-.button :hover,
+.button:hover,
 .button:focus {
-    color: var(--button-acktiv-color);
+    background:var(--button-acktiv-color);
 }
 
 .title-big{
@@ -166,7 +166,7 @@ body{
         font-size: 16px;
         line-height: 1.50;
         letter-spacing: 0.02em;
-    
+        color: var(--primery-text-color);
 }
 
 .font-top-title{
@@ -180,8 +180,12 @@ body{
         text-transform: capitalize;
 }
 
-.section{
-    color: var(--footer-logo-color);
+.section-page {
+    background:var(--footer-logo-color);
+}
+
+.team li{
+    background-color: var(--primery-white-color);
 }
 
 
