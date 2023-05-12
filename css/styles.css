@@ -207,12 +207,14 @@ body{
 
 .button-nav button{
     color:var(--accent-text-color);
-    background:var(--buton-normal-color);
-    font-family: 'Roboto';
+    background:var(--footer-logo-color);
+    font-family: "Roboto", sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.50;
+        letter-spacing: 0.04em;
+        cursor: pointer;
 }
 
 .button-nav button:hover,
