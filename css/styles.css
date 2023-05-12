@@ -58,10 +58,10 @@ body{
 
 .list{
     list-style: none;
-    
+
 }
 
-.link{
+.link li{
     text-decoration: none;
 }
 
