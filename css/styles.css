@@ -47,14 +47,13 @@ body{
 .studio-log{
     color: var(--footer-logo-color);
     font-family: 'Raleway' sans-serif;
-        font-style: normal;
-        font-weight: 800;
-        font-size: 18px;
-        line-height: 1.17;
-        align-items: center;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .list{
@@ -75,14 +74,11 @@ body{
 }
 
 .site-nav a{
-    color:var(--tittle-text-color)
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 1.50;
-        letter-spacing: 0.02em;
-
-
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.50
 }
 
 .site-nav a:hover, 
@@ -200,8 +196,6 @@ body{
         font-size: 18px;
         line-height: 1.17;
         color:var(--accent-text-color)
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
 
 }
 
