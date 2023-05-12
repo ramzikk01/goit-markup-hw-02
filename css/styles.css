@@ -74,11 +74,13 @@ body{
 }
 
 .site-nav a{
-font-family: 'Roboto';
+    font-family: 'Roboto'sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.50
+    line-height: 1.50;
+    letter-spacing: 0.02em;
+    color: var(--tittle-text-color);
 }
 
 .site-nav a:hover, 
