@@ -86,7 +86,7 @@ body{
 
 .site-nav a:hover, 
 .site-nav a:focus {
-    color:var(--accent-text-color);
+    color:var(--button-acktiv-color);
 
 }
 
