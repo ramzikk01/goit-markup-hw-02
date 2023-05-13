@@ -185,7 +185,7 @@ body{
     background:var(--footer-logo-color);
 }
 
-.team li{
+.team{
     background-color: var(--primery-white-color);
 }
 
