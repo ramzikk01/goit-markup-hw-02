@@ -224,7 +224,7 @@ body{
     background:var(--button-acktiv-color);
 }
 
-.list li{
+.list{
     list-style: none;
 }
 
